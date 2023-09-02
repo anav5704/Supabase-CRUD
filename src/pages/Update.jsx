@@ -1,9 +1,11 @@
-function Update() {
+import UpdateForm from "../components/UpdateForm"
+ 
+function Create() {
   return (
-    <div>
-        <h1>Update</h1>
+    <div className="grid place-content-center">
+        <UpdateForm />
     </div>
   )
 }
 
-export default Update
+export default Create

@@ -1,7 +1,9 @@
+import CreateForm from "../components/CreateForm"
+ 
 function Create() {
   return (
-    <div>
-        <h1>Create</h1>
+    <div className="grid place-content-center">
+        <CreateForm />
     </div>
   )
 }

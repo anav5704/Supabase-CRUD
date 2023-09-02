@@ -11,7 +11,7 @@ function App() {
       <nav className="bg-teal-600 text-center w-screen p-5 text-white">  
         <h1 className="text-3xl font-bold  mb-5">Supa Smoothies</h1>
         <Link to="/"  className="px-5 py-2 mr-5 rounded-sm border border-white">Home</Link>
-        <Link to="/create" className="px-5 py-2 rounded-md border border-white">New Smoothie</Link>
+        <Link to="/create" className="px-5 py-2 rounded-sm border border-white">New Smoothie</Link>
       </nav>
       <Routes>
         <Route path="/" element={<Home />} />
