@@ -1,4 +1,4 @@
-# Supa Smoothies
+# Supa Smoothies 🥤
 
 ![hero](https://github.com/anav5704/Supabase-CRUD/blob/main/docs/supa-smoothies.png)
 
