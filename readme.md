@@ -1,6 +1,6 @@
 # Supa Smoothies
 
-![hero](https://github.com/Supabase-CRUD/blob/main/supa-smoothies.png)
+![hero](https://github.com/anav5704/Supabase-CRUD/blob/main/docs/supa-smoothies.png)
 
 Ths is a very simple website where you can perform CRUD operations on "smoothies". It was my first time tyying out Supabase and it was amazing. Days better than Firebase. Both of these are backends as a service - the whole backend is outsourced.
 
