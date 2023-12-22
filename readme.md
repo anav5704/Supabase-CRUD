@@ -2,14 +2,14 @@
 
 ![hero](https://github.com/anav5704/Supabase-CRUD/blob/main/docs/supa-smoothies.png)
 
-Ths is a very simple website where you can perform CRUD operations on "smoothies". It was my first time tyying out Supabase and it was amazing. Days better than Firebase. Both of these are backends as a service - the whole backend is outsourced.
+This is a simple website where you can perform CRUD operations on "smoothies". It was my first time trying out Supabase and it was amazing. Days better than Firebase. Both of these are backends as a service - the whole backend is outsourced.
 
-## Technologeis Used
+## Technologies Used
 - React JS
 - TailwindCSS
 - Supabase
 
-## Geting Started
+## Getting Started
 
 First fork and clone the repo. First run ```npm install``` to download all the dependencies. Now, set up your environmental variables. Make a ```.env``` file in the root of your project with the following variables(these are from your Supabase project):
 
