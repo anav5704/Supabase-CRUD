@@ -11,7 +11,7 @@ This is a simple website where you can perform CRUD operations on "smoothies". I
 
 ## Getting Started
 
-First fork and clone the repo. First run ```npm install``` to download all the dependencies. Now, set up your environmental variables. Make a ```.env``` file in the root of your project with the following variables(these are from your Supabase project):
+First fork and clone the repo. Then, run ```npm install``` to download all the dependencies. Now, set up your environmental variables. Make a ```.env``` file in the root of your project with the following variables(these are from your Supabase project):
 
 ```
 VITE_SUPABASE_URL 
